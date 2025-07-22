@@ -1,6 +1,6 @@
 ## ✨ Olá, eu sou o Alex Miranda! 👋
 
-Desenvolvedor apaixonado por **Backend** e em constante aprendizado.
+Desenvolvedor  **FullStack** e em constante aprendizado.
 
 ---
 
